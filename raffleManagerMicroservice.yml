@@ -5,9 +5,11 @@ server:
 spring:
     application:
         name: raffleManagerMicroservice
-furnitureManagerMicroservice:
-  ribbon:
+ribbon:
     eureka:
         enabled: false
-    listOfServers: http://localhost:1234
+        
+furnitureManagerMicroservice:
+    ribbon:
+        listOfServers: http://localhost:1234
         

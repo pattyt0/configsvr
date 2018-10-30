@@ -1,0 +1,5 @@
+
+P
+ furnitureManagerMicroservice.yml,b\b\bbd72f11b6ac8f0e2fe13266e85792c7313b9782
+M
+raffleManagerMicroservice.yml,d\5\d5fb8129a6ba616d72a70da8fcfc6824bfa2faa8
