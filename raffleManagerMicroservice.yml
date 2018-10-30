@@ -7,5 +7,7 @@ spring:
         name: raffleManagerMicroservice
 furnitureManagerMicroservice:
   ribbon:
-    listOfServers: http://localhost:1234/api
+    eureka:
+        enabled: false
+    listOfServers: http://localhost:1234
         
