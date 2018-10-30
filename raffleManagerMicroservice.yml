@@ -1,9 +1,9 @@
 server:
-    port: 1234
+    port: 4567
     servlet.contextPath: /api
     
 spring:
     application:
-        name: furnituremanager
+        name: raffleManagerMicroservice
         
         
