@@ -7,5 +7,5 @@ spring:
         name: raffleManagerMicroservice
 furnitureManagerMicroservice:
   ribbon:
-    listOfServers: http://localhost:1234
+    listOfServers: http://localhost:1234/api
         
