@@ -5,5 +5,7 @@ server:
 spring:
     application:
         name: raffleManagerMicroservice
-        
+furnitureManagerMicroservice:
+  ribbon:
+    listOfServers: http://localhost:1234
         
